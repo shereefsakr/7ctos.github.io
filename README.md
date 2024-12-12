@@ -25,3 +25,15 @@ over perfect plans and rigid processes.
 The CTO Manifesto was authored by Etienne de Bruin and Brittany Cotton. 
 
 Etienne de Bruin is a lifelong coder turned CTO focused on helping technology leaders align their technical efforts with business success. Brittany Cotton is an accomplished executive coach and the Head of Coaching at [7CTOs](https://7ctos.com).
+
+# The Signatories
+
+If you agree with the CTO Manifesto, head over to [The Signatories](/docs/SIGNATORIES.md) and add your name! It's a simple PR that gets your name on the list. Don't be shy, add whatever information you'd like so people can find you.
+
+# FAQ
+
+1. Is the CTO Manifesto immutable?
+
+You're welcome to use the CTO Manifesto text and principles as is. If you plan on changing it then don't refer to it as the CTO Manifesto :)
+
+
