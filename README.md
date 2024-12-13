@@ -30,3 +30,6 @@ Etienne de Bruin is a lifelong coder turned CTO focused on helping technology le
 
 If you agree with the CTO Manifesto, head over to [The Signatories](/docs/SIGNATORIES.md) and add your name! It's a simple PR that gets your name on the list. Don't be shy, add whatever information you'd like so people can find you.
 
+# Contributing
+
+This page is a [repo on GitHub](https://github.com/7ctos/7ctos.github.io/tree/main) hosted by the [7CTOs Community](https://7ctos.com/).
