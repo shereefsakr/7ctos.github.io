@@ -7,3 +7,6 @@ In order to add your name to the list of signatories of the CTO Manifesto, follo
 3. When you are satisfied with your additions, navigate back to the main page of your repository (the **Code** tab), and you'll see a notification that says "This branch is x commits ahead of `7ctos/7ctos.github.io:main`". Click **Contribute** and then **Open Pull Request**
 4. In the **Title** field, say "Adding {your name}"
 5. Click "Create Pull Request"
+
+---
+(c) 2024 7CTOs
