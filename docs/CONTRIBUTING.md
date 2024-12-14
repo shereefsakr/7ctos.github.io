@@ -1,5 +1,7 @@
 # Contributing
 
+We are so glad you are here to contribute! Feel free to follow these instructions and we promise to look at it as quickly as possible. If you need any immediate help or have any questions, feel free to [email Etienne](mailto:etienne@7ctos.com).
+
 In order to add your name to the list of signatories of the CTO Manifesto, follow these instructions:
 
 1. Create a fork of this [repository on GitHub](https://github.com/7ctos/7ctos.github.io). _Note: Do not just clone the repo, as you won't be able to push your changes directly back to this repository_
@@ -8,5 +10,3 @@ In order to add your name to the list of signatories of the CTO Manifesto, follo
 4. In the **Title** field, say "Adding {your name}"
 5. Click "Create Pull Request"
 
----
-(c) 2024 7CTOs
