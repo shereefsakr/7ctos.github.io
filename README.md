@@ -32,4 +32,4 @@ If you agree with the CTO Manifesto, head over to [The Signatories](/docs/SIGNAT
 
 # Contributing
 
-This page is a [repo on GitHub](https://github.com/7ctos/7ctos.github.io/tree/main) hosted by the [7CTOs Community](https://7ctos.com/).
+This page is a [repo on GitHub](https://github.com/7ctos/7ctos.github.io/tree/main) hosted by the [7CTOs Community](https://7ctos.com/). For instructions on how to contribute, please read [Contributing](/docs/CONTRIBUTING.md).
