@@ -1,5 +1,3 @@
-# Introduction
-
 As a CTO, the role is more than managing technology; it’s about understanding how technology drives business success. This manifesto is not a set of rigid rules but a guiding framework—rooted in collaboration, grounded in strategy, and focused on creating real impact. It recognizes the complexity of leading in today’s world and offers principles to navigate it with humility, precision, and purpose.
 
 # CTO Manifesto
