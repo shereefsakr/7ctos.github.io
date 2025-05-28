@@ -6,3 +6,4 @@
 [Philip Borlin](https://www.linkedin.com/in/philborlin) | Changing the way we Computer Science | 2024/12/13 | Tech Leader
 [Mourad Zerroug](https://www.linkedin.com/in/mourad-zerroug-92baa85) | "CTO | Tech leader and visionary | AI innovator" | 2024/12/18 | High performance team builder
 [Calvin Hendryx-Parker](https://www.linkedin.com/in/calvinhp) | CTO and Co-Founder of [Six Feet Up](https://sixfeetup.com), AWS Hero and Python Leader | 2025/02/19 | CTO
+[Shereef Sakr](https://www.linkedin.com/in/shereef-sakr) | Director Of Technology | 2025/05/27 | Director Of Technology
